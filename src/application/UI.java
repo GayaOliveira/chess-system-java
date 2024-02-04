@@ -13,7 +13,7 @@ public class UI {   // classe para imprimir o tabuleiro
             }
             System.out.println();
         }
-        System.out.println("  A B C D E F G H");
+        System.out.println("  a b c d e f g h");
 
     }
 

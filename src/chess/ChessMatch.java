@@ -29,9 +29,9 @@ public class ChessMatch {    // classe que guardará as regras do jogo
 
 
     private void initialSetup(){
-        placeNewPiece('B', 6, new Rook(board, Color.WHITE));
-        placeNewPiece('E', 8, new King(board, Color.BLACK));
-        placeNewPiece('E', 1, new King(board, Color.WHITE));
+        placeNewPiece('b', 6, new Rook(board, Color.WHITE));
+        placeNewPiece('e', 8, new King(board, Color.BLACK));
+        placeNewPiece('e', 1, new King(board, Color.WHITE));
     }
 
 }

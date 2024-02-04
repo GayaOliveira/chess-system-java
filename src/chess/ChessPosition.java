@@ -25,7 +25,7 @@ public class ChessPosition {  // essa classe fará a relação entre as posiçõ
     }
 
     protected Position toPosition(){
-        return new Position(8 - row, column - 'A');
+        return new Position(8 - row, column - 'a');
     }
 
     protected static ChessPosition fromPosition(Position position){
