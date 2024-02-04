@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1cd48977-d476-4ff4-b2d4-b44b42ec1d53" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706992308668</updated>
-      <workItem from="1706992310025" duration="8534000" />
+      <workItem from="1706992310025" duration="9325000" />
     </task>
     <servers />
   </component>
